@@ -26,17 +26,6 @@ Welcome to my **Music Player Web App**, created as part of my **CodeAlpha Intern
 4️⃣ Toggle between dark and light mode for a customized look.  
 5️⃣ Enjoy a smooth and responsive music experience.  
 
-## 🚀 Live Demo:
-Check out the live version here: **[Live Demo Link]**  
-
-## 📂 Project Setup:
-To run this project locally:  
-```bash
-  git clone https://github.com/yourusername/music-player-codealpha.git  
-  cd music-player-codealpha  
-  open index.html in your browser  
-```
-
 ## 🤝 Contribute:
 Want to enhance this project? Feel free to fork and contribute!  
 
